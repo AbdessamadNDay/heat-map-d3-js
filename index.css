@@ -1,0 +1,13 @@
+
+#tooltip {	
+  position: absolute;			
+  text-align: center;			
+  width: 100px;					
+  height: 50px;					
+  padding: 2px;
+  /* background: lightsteelblue;	 */
+  border: 0px;		
+  border-radius: 5px;			
+  pointer-events: none;
+  opacity: 0;
+}
